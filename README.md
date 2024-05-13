@@ -57,7 +57,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Whisper C++</a>
+      <a href="#Whisper-C++">Whisper C++</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
